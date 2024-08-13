@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books,listening musics
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on more projects
-- 📫 How to reach me via mail
+- 📫 You can reach me via fazli.gudul@ug.bilkent.edu.tr
 I am freshman student at bilkent university.
 <!---
 fazligudul/fazligudul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
