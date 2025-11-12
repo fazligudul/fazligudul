@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fazlı Güdül
-- I am 3rd year student in Bilkent University
+- I am 4th year student in Bilkent University
 - 👀 I’m interested in Java, C++, GUI design, SystemVerilog
 - 🌱 I’m looking to collaborate on more projects
 - 📫 You can reach me via fazli.gudul@ug.bilkent.edu.tr
